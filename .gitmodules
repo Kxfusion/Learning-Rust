@@ -1,0 +1,54 @@
+[submodule "adder"]
+	path = adder
+	url = https://github.com/Kxfusion/adder.git
+[submodule "Matches"]
+	path = Matches
+	url = https://github.com/Kxfusion/Matches.git
+[submodule "collections"]
+	path = collections
+	url = https://github.com/Kxfusion/collections.git
+[submodule "functional"]
+	path = functional
+	url = https://github.com/Kxfusion/functional.git
+[submodule "generics"]
+	path = generics
+	url = https://github.com/Kxfusion/generics.git
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/Kxfusion/guessing_game.git
+[submodule "hello"]
+	path = hello
+	url = https://github.com/Kxfusion/hello.git
+[submodule "hello_cargo"]
+	path = hello_cargo
+	url = https://github.com/Kxfusion/hello_cargo.git
+[submodule "hello_macro"]
+	path = hello_macro
+	url = https://github.com/Kxfusion/hello_macro.git
+[submodule "minigrep"]
+	path = minigrep
+	url = https://github.com/Kxfusion/minigrep.git
+[submodule "my-project"]
+	path = my-project
+	url = https://github.com/Kxfusion/my-project.git
+[submodule "oop"]
+	path = oop
+	url = https://github.com/Kxfusion/oop.git
+[submodule "rectangles"]
+	path = rectangles
+	url = https://github.com/Kxfusion/rectangles.git
+[submodule "restaurant"]
+	path = restaurant
+	url = https://github.com/Kxfusion/restaurant.git
+[submodule "smart_pointers"]
+	path = smart_pointers
+	url = https://github.com/Kxfusion/smart_pointers.git
+[submodule "threading"]
+	path = threading
+	url = https://github.com/Kxfusion/threading.git
+[submodule "unsafe_stuff"]
+	path = unsafe_stuff
+	url = https://github.com/Kxfusion/unsafe_stuff.git
+[submodule "variables"]
+	path = variables
+	url = https://github.com/Kxfusion/variables.git
